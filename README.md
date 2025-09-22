@@ -3,7 +3,7 @@
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/ridhocrnv/danger-line.git
+cd danger-line
 pip install colorama
 python main.py
